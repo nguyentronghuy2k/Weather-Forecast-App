@@ -287,7 +287,7 @@ public class HomeWeather extends AppCompatActivity {
                 }, new Response.ErrorListener() {
             @Override
             public void onErrorResponse(VolleyError error) {
-                Toast.makeText(HomeWeather.this, "Lỗi khi lấy dữ liệu!Vui lòng thử lại!", Toast.LENGTH_SHORT).show();
+                Toast.makeText(HomeWeather.this, "Fail to take data!Please try again!", Toast.LENGTH_SHORT).show();
             }
         });
         requestQueue.add(stringRequest);
