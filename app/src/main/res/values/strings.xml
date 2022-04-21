@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <string-array name="city_name">
+        <item>GPS</item>
+        <item>Tỉnh Nghệ An</item>
+        <item>Tỉnh Ninh Bình</item>
+        <item>Tỉnh Ninh Thuận</item>
+        <item>Tỉnh Sóc Trăng</item>
+        <item>Tỉnh Trà Vinh</item>
+        <item>Tỉnh Tuyên Quang</item>
+        <item>Tỉnh Vĩnh Long</item>
+        <item>Tỉnh Yên Bái</item>
+        <item>Yen Vinh</item>
+        <item>Xóm Yân Lạc Hâu</item>
+        <item>Xóm Pho</item>
+        <item>Tỉnh Lào Cai</item>
+        <item>Vung Tau</item>
+        <item>Vinh Yen</item>
+        <item>Vinh</item>
+        <item>Viet Tri</item>
+        <item>Uong Bi</item>
+        <item>Tuy Hoa</item>
+        <item>Tỉnh Tiền Giang</item>
+        <item>Thu Dau Mot</item>
+        <item>Tỉnh Thừa Thiên-Huế</item>
+        <item>Tra Vinh</item>
+        <item>Tuyen Quang</item>
+        <item>Tỉnh Kon Tum</item>
+        <item>Thông Tây Hội</item>
+        <item>Thôn Ðiền Hạ</item>
+        <item>Thôn Chiết Bi Ha</item>
+        <item>Huyen Thanh Son</item>
+        <item>Tỉnh Thanh Hóa</item>
+        <item>Thanh Hoa</item>
+        <item>Thai Nguyen</item>
+        <item>Tỉnh Thái Bình</item>
+        <item>Thai Binh</item>
+        <item>Tỉnh Tây Ninh</item>
+        <item>Tay Ninh</item>
+        <item>Tan An</item>
+        <item>Tam Ky</item>
+        <item>Son Tay</item>
+        <item>Tỉnh Sơn La</item>
+        <item>Huyen Son Duong</item>
+        <item>Son La</item>
+        <item>Song Cau</item>
+        <item>Soc Trang</item>
+        <item>Sa Pa</item>
+        <item>Sa Dec</item>
+        <item>Rach Gia</item>
+        <item>Quy Nhon</item>
+        <item>Tỉnh Quảng Trị</item>
+        <item>Quảng Trị</item>
+        <item>Tỉnh Quảng Ninh</item>
+        <item>Tỉnh Quảng Ngãi</item>
+        <item>Quang Ngai</item>
+        <item>Tỉnh Quảng Bình</item>
+        <item>Pleiku</item>
+        <item>Tỉnh Phú Yên</item>
+        <item>Thi xa Phu Tho</item>
+        <item>Duong GJong</item>
+        <item>Phu Ly</item>
+        <item>Phu Khuong</item>
+        <item>Phu Hưu</item>
+        <item>Phong Tho</item>
+        <item>Phan Thiet</item>
+        <item>Phan Rang-Thap Cham</item>
+        <item>Ninh Binh</item>
+        <item>Nha Trang</item>
+        <item>Ngô Châu</item>
+        <item>Tỉnh Hòa Bình</item>
+        <item>Nam Dinh</item>
+        <item>My Tho</item>
+        <item>Long Xuyen</item>
+        <item>Tỉnh Long An</item>
+        <item>Lao Cai</item>
+        <item>Tỉnh Lạng Sơn</item>
+        <item>Lang Son</item>
+        <item>Tỉnh Lâm Ðồng</item>
+        <item>Kon Tum</item>
+        <item>Lagi</item>
+        <item>Tỉnh Khánh Hòa</item>
+        <item>Hung Yen</item>
+        <item>Hue</item>
+        <item>Ha Long</item>
+        <item>Hoi An</item>
+        <item>Thành phố Hồ Chí Minh</item>
+        <item>Tỉnh Hà Tĩnh</item>
+        <item>Thủ Ðô Hà Nội</item>
+        <item>Tỉnh Hà Giang</item>
+        <item>Thành Phố Hải Phòng</item>
+        <item>Tỉnh Ðồng Tháp</item>
+        <item>Tỉnh Ðồng Nai</item>
+        <item>Cam Ranh</item>
+    </string-array>
+</resources>
