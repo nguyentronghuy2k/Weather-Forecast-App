@@ -200,7 +200,7 @@ public class HomeWeather extends AppCompatActivity {
     private void showAboutDialog() {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle("About!");
-        builder.setMessage("This is Weather Application");
+        builder.setMessage("This is Weather Forecast Application");
         builder.setCancelable(false);
         builder.setPositiveButton("OK", null);
         Dialog dialog = builder.create();
